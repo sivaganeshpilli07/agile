@@ -1,0 +1,18 @@
+- Team Size: 5
+- Sprint Duration: 2 weeks
+- Number of Sprints: 5
+- Product Backlog Items: 30
+- Total Story Points: 120
+- Average Velocity: 25.8
+- Completed Story Points: 129
+- Total Defects: 11
+- Sprint 1 Velocity: 22
+- Sprint 2 Velocity: 25
+- Sprint 3 Velocity: 27
+- Sprint 4 Velocity: 26
+- Sprint 5 Velocity: 29
+- Completed User Stories: 35
+- Pending User Stories: 5
+- Scrum Master: 1
+- Product Owner: 1
+- Developers: 3
