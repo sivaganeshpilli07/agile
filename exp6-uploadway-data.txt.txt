@@ -1,0 +1,36 @@
+Team Size: 6
+Sprint Duration: 2 Weeks
+Number of Sprints: 4
+Product Backlog Items: 24
+Total Story Points: 100
+Completed Story Points: 88
+Average Velocity: 22
+Total Defects: 9
+
+Sprint 1:
+User Stories: 5
+Planned Points: 24
+Completed Points: 20
+Defects: 3
+Velocity: 20
+
+Sprint 2:
+User Stories: 6
+Planned Points: 26
+Completed Points: 23
+Defects: 2
+Velocity: 23
+
+Sprint 3:
+User Stories: 7
+Planned Points: 28
+Completed Points: 25
+Defects: 2
+Velocity: 25
+
+Sprint 4:
+User Stories: 6
+Planned Points: 22
+Completed Points: 20
+Defects: 2
+Velocity: 20
